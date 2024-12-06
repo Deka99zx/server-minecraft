@@ -1,88 +1,73 @@
-[03:54:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:54:18] [ServerMain/INFO]: Loaded 7 recipes
-[03:54:18] [ServerMain/INFO]: Loaded 1271 advancements
-[03:54:19] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:54:19] [Server thread/INFO]: Loading properties
-[03:54:19] [Server thread/INFO]: Default game type: SURVIVAL
-[03:54:19] [Server thread/INFO]: Generating keypair
-[03:54:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:54:19] [Server thread/INFO]: Using epoll channel type
-[03:54:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:54:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:54:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:54:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:54:19] [Server thread/INFO]: Preparing level "world"
-[03:54:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:54:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:32] [Server thread/INFO]: Time elapsed: 6979 ms
-[03:54:32] [Server thread/INFO]: Done (12.867s)! For help, type "help"
-[03:54:51] [Server thread/INFO]: Dekants[/[0:0:0:0:0:0:0:1%0]:38346] logged in with entity id 211 at (-44.14970169143091, 64.0, 2.095152105061913)
-[03:54:51] [Server thread/INFO]: Dekants joined the game
-[03:55:14] [Server thread/INFO]: ROXYYXR[/[0:0:0:0:0:0:0:1%0]:46886] logged in with entity id 361 at (4.5, 64.0, -3.5)
-[03:55:14] [Server thread/INFO]: ROXYYXR joined the game
-[03:56:09] [Server thread/INFO]: [Not Secure] <Dekants> Deku99
-[03:56:20] [Server thread/INFO]: Dekants has made the advancement [Stone Age]
-[03:57:07] [Server thread/INFO]: ROXYYXR has made the advancement [Getting an Upgrade]
-[03:57:12] [Server thread/INFO]: Dekants has made the advancement [Getting an Upgrade]
-[04:01:15] [Server thread/INFO]: ROXYYXR has made the advancement [Monster Hunter]
-[04:04:09] [Server thread/INFO]: Dekants has made the advancement [Monster Hunter]
-[04:06:36] [Server thread/INFO]: ROXYYXR has made the advancement [Sweet Dreams]
-[04:06:37] [Server thread/INFO]: Dekants has made the advancement [Sweet Dreams]
-[04:06:39] [Server thread/INFO]: [Not Secure] <Dekants> d
-[04:06:39] [Server thread/INFO]: [Not Secure] <Dekants> sa
-[04:06:39] [Server thread/INFO]: [Not Secure] <Dekants> d
-[04:06:39] [Server thread/INFO]: [Not Secure] <Dekants> as
-[04:06:39] [Server thread/INFO]: [Not Secure] <Dekants> d
-[04:06:39] [Server thread/INFO]: [Not Secure] <Dekants> a
-[04:06:39] [Server thread/INFO]: [Not Secure] <Dekants> d
-[04:10:36] [Server thread/INFO]: ROXYYXR has made the advancement [Stone Age]
-[04:12:48] [Server thread/INFO]: Dekants has made the advancement [Acquire Hardware]
-[04:13:11] [Server thread/INFO]: ROXYYXR was slain by Dekants
-[04:13:33] [Server thread/INFO]: Made Dekants a server operator
-[04:13:42] [Server thread/INFO]: [Dekants: Teleported ROXYYXR to Dekants]
-[04:14:02] [Server thread/INFO]: ROXYYXR was slain by Zombie
-[04:14:36] [Server thread/INFO]: [Dekants: Teleported ROXYYXR to Dekants]
-[04:15:23] [Server thread/INFO]: Dekants has made the advancement [Suit Up]
-[04:15:33] [Server thread/INFO]: ROXYYXR has made the advancement [Suit Up]
-[04:16:30] [Server thread/INFO]: Dekants has made the advancement [Isn't It Iron Pick]
-[04:20:12] [Server thread/INFO]: Dekants has made the advancement [Not Today, Thank You]
-[04:21:55] [Server thread/INFO]: [Not Secure] <Dekants> z
-[04:21:55] [Server thread/INFO]: [Not Secure] <Dekants> z
-[04:21:55] [Server thread/INFO]: [Not Secure] <Dekants> z
-[04:26:07] [Server thread/INFO]: Dekants has made the advancement [A Seedy Place]
-[04:29:41] [Server thread/INFO]: Villager byb['Villager'/7204, l='ServerLevel[world]', x=807.50, y=71.00, z=302.85] died, message: 'Villager was slain by ROXYYXR'
-[04:30:24] [Server thread/INFO]: [Not Secure] <ROXYYXR> 56
-[04:31:34] [Server thread/INFO]: Dekants has made the advancement [Best Friends Forever]
-[04:31:45] [Server thread/WARN]: Horse (vehicle of Dekants) moved wrongly! 0.4888597026673551
-[04:31:45] [Server thread/WARN]: Horse (vehicle of Dekants) moved wrongly! 1.0997266563799712
-[04:31:45] [Server thread/WARN]: Horse (vehicle of Dekants) moved wrongly! 1.716744255045569
-[04:31:45] [Server thread/WARN]: Horse (vehicle of Dekants) moved wrongly! 2.33705294119477
-[04:31:45] [Server thread/WARN]: Horse (vehicle of Dekants) moved wrongly! 2.9591226226392564
-[04:31:45] [Server thread/WARN]: Horse (vehicle of Dekants) moved wrongly! 3.539258921676378
-[04:33:46] [Server thread/INFO]: ROXYYXR has made the advancement [Best Friends Forever]
-[04:34:13] [Server thread/INFO]: [Not Secure] <Dekants> zzz
-[04:34:13] [Server thread/INFO]: [Not Secure] <Dekants> z
-[04:34:13] [Server thread/INFO]: [Not Secure] <Dekants> z
-[04:34:13] [Server thread/INFO]: [Not Secure] <Dekants> z
-[04:34:13] [Server thread/INFO]: [Not Secure] <Dekants> z
-[04:34:14] [Server thread/INFO]: [Not Secure] <Dekants> z
-[04:34:35] [Server thread/INFO]: [Not Secure] <Dekants> mueme
-[04:34:43] [Server thread/INFO]: [Not Secure] <Dekants> ✹
-[04:34:55] [Server thread/INFO]: [Not Secure] <Dekants> Ⓜ
-[04:35:05] [Server thread/INFO]: [Not Secure] <Dekants> ⚠
-[04:35:16] [Server thread/INFO]: [Not Secure] <Dekants> ☞☞☞☞☞☞
-[04:35:27] [Server thread/INFO]: [Dekants: Set own game mode to Creative Mode]
-[04:35:59] [Server thread/INFO]: [Dekants: Set own game mode to Survival Mode]
+[06Dec2024 19:26:23.015] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
+[06Dec2024 19:26:23.017] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.4+7-LTS
+[06Dec2024 19:26:23.020] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[06Dec2024 19:26:23.114] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/server-minecraft/servidor_minecraft/config/fml.toml is not correct. Correcting
+[06Dec2024 19:26:23.116] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[06Dec2024 19:26:23.116] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[06Dec2024 19:26:23.117] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[06Dec2024 19:26:23.118] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[06Dec2024 19:26:23.138] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[06Dec2024 19:26:23.287] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/server-minecraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[06Dec2024 19:26:23.623] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[06Dec2024 19:26:24.942] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
+[06Dec2024 19:26:25.427] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/server-minecraft/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-minecraft/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/server-minecraft/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/server-minecraft/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[06Dec2024 19:26:25.604] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/server-minecraft/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-minecraft/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/server-minecraft/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/server-minecraft/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[06Dec2024 19:26:34.500] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[06Dec2024 19:26:34.501] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[06Dec2024 19:26:34.511] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[06Dec2024 19:26:35.586] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Dec2024 19:26:36.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
+[06Dec2024 19:26:38.202] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06Dec2024 19:26:39.307] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[06Dec2024 19:26:40.570] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[06Dec2024 19:26:40.973] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[06Dec2024 19:26:41.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
+[06Dec2024 19:26:41.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Dec2024 19:26:41.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Dec2024 19:26:41.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Dec2024 19:26:42.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Dec2024 19:26:42.401] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Dec2024 19:26:42.470] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Dec2024 19:26:42.471] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Dec2024 19:26:42.471] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Dec2024 19:26:42.471] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Dec2024 19:26:42.508] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[06Dec2024 19:26:42.509] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[06Dec2024 19:26:42.510] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[06Dec2024 19:26:42.510] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[06Dec2024 19:26:42.511] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[06Dec2024 19:26:42.511] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[06Dec2024 19:26:42.512] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[06Dec2024 19:26:42.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Dec2024 19:26:55.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Dec2024 19:26:55.202] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:26:55.699] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:26:56.439] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:26:56.884] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:26:57.198] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:26:57.609] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:26:58.116] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:26:58.657] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:26:59.174] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:26:59.608] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:27:00.112] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:27:00.643] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:27:01.124] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:27:01.679] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:27:02.236] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:27:02.610] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:27:03.118] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:27:03.628] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:27:04.128] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[06Dec2024 19:27:04.885] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[06Dec2024 19:27:05.284] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10178 ms
+[06Dec2024 19:27:05.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.787s)! For help, type "help"
+[06Dec2024 19:27:05.313] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Dec2024 19:27:05.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Dec2024 19:27:05.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python3 /workspaces/server-minecraft/msx.py<--[HERE]
+[06Dec2024 19:27:16.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deku99[/127.144.174.36:33763] logged in with entity id 35 at (-59.5, 65.0, 89.5)
+[06Dec2024 19:27:16.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deku99 joined the game
+[06Dec2024 19:29:23.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Deku99 a server operator
+[06Dec2024 19:29:30.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deku99: Set own game mode to Creative Mode]
+[06Dec2024 19:31:05.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deku99 moved too quickly! 0.0,-10.397484785194408,0.0
+[06Dec2024 19:31:16.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deku99 has made the advancement [Stone Age]
