@@ -71,3 +71,16 @@
 [06Dec2024 19:29:30.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deku99: Set own game mode to Creative Mode]
 [06Dec2024 19:31:05.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deku99 moved too quickly! 0.0,-10.397484785194408,0.0
 [06Dec2024 19:31:16.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deku99 has made the advancement [Stone Age]
+[06Dec2024 19:37:30.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Dec2024 19:37:30.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Dec2024 19:37:30.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Dec2024 19:37:30.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deku99 lost connection: Server closed
+[06Dec2024 19:37:30.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deku99 left the game
+[06Dec2024 19:37:30.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Dec2024 19:37:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Dec2024 19:37:32.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Dec2024 19:37:32.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Dec2024 19:37:32.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Dec2024 19:37:32.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Dec2024 19:37:32.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Dec2024 19:37:32.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
